@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-#PRUEBA
+# Sistema de Registro Clínicos e Inserción de Medicamentos / System of Clinical Registration and Insertion of Medications
 
-![](img/clinica1.png)
+![](public/img/clinica1.png)
 
