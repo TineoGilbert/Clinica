@@ -8,3 +8,6 @@
 </p>
 
 #PRUEBA
+
+![](img/clinica1.png)
+
