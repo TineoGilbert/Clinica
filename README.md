@@ -28,6 +28,8 @@ This project consists of a web page which contains a mini system to be able to i
 
 ![](public/img/clinica4.png)
 
+![](public/img/Almacen.png)
+
 ![](public/img/clinica5.png)
 
 ![](public/img/clinica6.png)
